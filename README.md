@@ -1,6 +1,8 @@
 # OpenCC_Python
 OpenCC Python Extension with no external dependencies for Linux OSX and Windows
 
+This readme is for Linux and OSX.
+
 First of all check the python version you want. like: 64bit or 32bit, 2.7.9 or 3.3.3 or 3.4.2. Use python -version to check. Make sure that the python version you need is current aviable from path.
 
 ##Clone the repo
