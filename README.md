@@ -7,7 +7,7 @@ First of all check the python version you want. like: 64bit or 32bit, 2.7.9 or 3
 
 ##Clone the repo
 
-    git clone https://github.com/rexdf/OpenCC_Python.git
+    git clone -b windows https://github.com/rexdf/OpenCC_Python.git
     cd OpenCC_Python
     git submodule init
     git submodule update
@@ -39,4 +39,4 @@ Now you can run some test.(copy files is required before Test)
     cd OpenCC_Python
     python test.py
 
-For Linux build, Please refer here.
+For Linux or OSX build, Please refer [here](https://github.com/rexdf/OpenCC_Python/blob/master/README.md).
